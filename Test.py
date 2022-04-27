@@ -1,7 +1,7 @@
 
 a=1
-b=0
-
+b=2
+c=2
 
 print("Hello")
 
